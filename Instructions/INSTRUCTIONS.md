@@ -11,9 +11,7 @@
 pip install -r requirements.txt
 ```
 
-2. Create .env File
-Add your API key:
-```GOOGLE_API_KEY=your_key_here```
+2. Copy the example.env File and name it `.env`. Add an API key
 
 3. Start Streamlit App
 ```bash
