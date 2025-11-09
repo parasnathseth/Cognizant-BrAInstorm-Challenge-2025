@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+pillow
+numpy
+scikit-learn
+google-generativeai
+python-dotenv
+requests
+pandas
+plotly
