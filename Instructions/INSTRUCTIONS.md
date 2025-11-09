@@ -4,6 +4,8 @@
 
 - **PREQREQUISITE:** This app requires you to have a Gemini API Key.
 
+0. Clone the Repository
+
 1. Install Dependencies
 ```bash
 pip install -r requirements.txt
